@@ -6,9 +6,13 @@ Unlike traditional websites, Aethel utilizes a "Temporal Anchor" logic. As the u
 
 ## Technical Stack
 **Framework**: Next.js 14 (App Router)
+
 **Animation Engine**: GSAP (ScrollTrigger & Timeline)**
+
 **UI Components**: Framer Motion (Internal element transitions)
+
 **Styling**: Tailwind CSS (Custom "Era" design tokens)
+
 **State Management**: Global CSS Variable Injection via ThemeEngine.tsx
 
 [aethel_demo.webm](https://github.com/user-attachments/assets/d95a0a35-fcfc-4b1c-a316-b4b7a25214f4)
