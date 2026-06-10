@@ -7,7 +7,7 @@ Unlike traditional websites, Aethel utilizes a "Temporal Anchor" logic. As the u
 ## Technical Stack
 **Framework**: Next.js 14 (App Router)
 
-**Animation Engine**: GSAP (ScrollTrigger & Timeline)**
+**Animation Engine**: GSAP (ScrollTrigger & Timeline)
 
 **UI Components**: Framer Motion (Internal element transitions)
 
