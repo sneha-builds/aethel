@@ -17,7 +17,7 @@ Unlike traditional websites, Aethel utilizes a "Temporal Anchor" logic. As the u
 
 **UI Components**: Motion (Internal element transitions)
 
-**Styling**: Tailwind CSS (Custom "Era" design tokens)
+**Styling**: Tailwind CSS (Custom "Era" design tokens)           
 
 **State Management**: Global CSS Variable Injection via ThemeEngine.tsx
 
