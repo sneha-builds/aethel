@@ -9,7 +9,7 @@ Unlike traditional websites, Aethel utilizes a "Temporal Anchor" logic. As the u
 
 **Fluid Morphing**: Design tokens (border-radius, blur, shadows) are not static. They tween in real-time as you transition between eras.
 
-**Era-Accurate Physics**: From the rigid, tactile "clicked" buttons of 1995 to the frictionless, glowing glass of 2024.
+**Era-Accurate Physics**: From the rigid, tactile "clicked" buttons of 1995 to the frictionless, glowing glass of 2024.             
 
 ## Technical Stack
 **Framework**: Vite + React 19
