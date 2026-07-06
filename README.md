@@ -1,4 +1,5 @@
-## 🌀 Aethel: A Chronological Odyssey of the Web
+## 🌀 Aethel: A Chronological Odyssey of the Web    
+
 **Aethel** is a high-fidelity, immersive digital museum built with Vite, React 19, and GSAP. It reimagines the "scroll" not as a vertical movement but as a Z-axis ascension through the history of internet design. Users don't just browse content; they travel through the design DNA of the 90s, the Y2K era, and the Modern age.
 
 ## The Experience
