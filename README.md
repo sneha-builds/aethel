@@ -14,7 +14,7 @@ Unlike traditional websites, Aethel utilizes a "Temporal Anchor" logic. As the u
 ## Technical Stack   
 **Framework**: Vite + React 19
 
-**Animation Engine**: GSAP (ScrollTrigger & Timeline)
+**Animation Engine**: GSAP (ScrollTrigger & Timeline)  
 
 **UI Components**: Motion (Internal element transitions)
 
