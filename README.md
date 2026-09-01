@@ -11,7 +11,7 @@ Unlike traditional websites, Aethel utilizes a "Temporal Anchor" logic. As the u
 
 **Era-Accurate Physics**: From the rigid, tactile "clicked" buttons of 1995 to the frictionless, glowing glass of 2024.             
 
-## Technical Stack   
+## Technical Stack     
 **Framework**: Vite + React 19
 
 **Animation Engine**: GSAP (ScrollTrigger & Timeline)  
